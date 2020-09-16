@@ -1,0 +1,24 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "Version 1 of my personal portfolio build. Sept/15/2020.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrazebra/Personal-Portfolio.git"
+  },
+  "author": "Ibrahima Diallo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibrazebra/Personal-Portfolio/issues"
+  },
+  "homepage": "https://github.com/ibrazebra/Personal-Portfolio#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
